@@ -1,9 +1,0 @@
-# PROJECT PROP0SAL (HIDDEN TELESCOPE FEATURE)
-
-The dynamic content I want to add is a hidden telescope feature to my portfolio website home page. This would be a secret feature a user could activate by clicking a telescope illustration on the banner (either by that part being a seperate button with a vector graphic or by JavaScript image mapping). Once the user clicks on the telescope button a modal pops up showcasing the view of a telescope looking up at the sky. 
-
-There will be two different views (chosen at random) that will be related to the two case studies (Youniverse a UX/UI design and Frontend Development Project and Milky Way a Graphic Design Project) as the user would be transported to the respective case study page once the telescope sequence is complete (only if the user chooses to though as there will be an exit button to close the modal too). 
-
-The way the user completes the telescope sequence is by connecting stars (that will be outlined only when unclicked but will be filled in when clicked) in any order. Once they are all clicked, a small animation will happen revealing the stars to make a constellation (a planet constellation for Youniverse, and a bubble tea constellation for Milky Way). The user will then be transported to the respective case study page once the animation is completed.
-
-Choosing to only do the case studies as naviagable pages was a deliberate choice. Not only does this reduce the scope of this feature as there would be three less variations to implement but also if a user was to stumble upon this feature and complete the sequence I would prefer them to see a case study rather than a standard project page. To make sure this feature would be responsive it would most likely be scaled up or down (as majority of the elements would be vector graphics that have been made in Adobe Illustrator) to fit the standard screen sizes of a laptop, tablet and phone.
